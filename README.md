@@ -1,38 +1,38 @@
-ÊÊºÏ¾ø´ó²¿·ÖVPSÊ¹ÓÃ 
+é€‚åˆç»å¤§éƒ¨åˆ†VPSä½¿ç”¨ 
 
-DD³É¹¦£ºoci  aws  az  rn  vultr  layerstack
+DDæˆåŠŸï¼šoci  aws  az  rn  vultr  layerstack
 
-ÖØ×°
+é‡è£…
 
-bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -d 11 -v 64 -p 123456 -port 22
+bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/robram9572/1KEYDD/master/InstallNET.sh') -d 11 -v 64 -p 123456 -port 22
 
 
-ÏµÍ³²ÎÊı
+ç³»ç»Ÿå‚æ•°
 
--d 10  ¡¾7¡¢8¡¢9¡¢10£¬11¡¿Debian
+-d 10  ã€7ã€8ã€9ã€10ï¼Œ11ã€‘Debian
 
--u 20.04  ¡¾14.04¡¢16.04¡¢18.04¡¢20.04¡¿Ubuntu
+-u 20.04  ã€14.04ã€16.04ã€18.04ã€20.04ã€‘Ubuntu
 
-ÃÜÂë²ÎÊı£¬¿ÉÒÔ¸Ä³É±ğµÄ
+å¯†ç å‚æ•°ï¼Œå¯ä»¥æ”¹æˆåˆ«çš„
 
 
 -p 12345
 
-¶Ë¿Ú²ÎÊı
+ç«¯å£å‚æ•°
 
 port 22
 
 
-°²×°Íê³ÉºóVPS»áÖØÆô°²×°£¬µÈ´ı10·ÖÖÓ×óÓÒ£¬³¢ÊÔÖØĞÂÁ¬½Ó
+å®‰è£…å®ŒæˆåVPSä¼šé‡å¯å®‰è£…ï¼Œç­‰å¾…10åˆ†é’Ÿå·¦å³ï¼Œå°è¯•é‡æ–°è¿æ¥
 
-ÓÃ»§ÃûÎªroot
+ç”¨æˆ·åä¸ºroot
 
-ÃÜÂëÊÇÄãÉèÖÃµÄ
+å¯†ç æ˜¯ä½ è®¾ç½®çš„
 
-³É¹¦Á¬½ÓºóÊäÈëÏÂÃæµÄ¸üĞÂ×é¼şºÍBBRÃüÁî£¬ÍêÉÆ»ù´¡ÏµÍ³»·¾³
+æˆåŠŸè¿æ¥åè¾“å…¥ä¸‹é¢çš„æ›´æ–°ç»„ä»¶å’ŒBBRå‘½ä»¤ï¼Œå®Œå–„åŸºç¡€ç³»ç»Ÿç¯å¢ƒ
 
 
-¸üĞÂ×é¼ş
+æ›´æ–°ç»„ä»¶
 
 apt update -y && apt install -y curl && apt install -y socat && apt install wget -y
 
