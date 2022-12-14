@@ -6,6 +6,8 @@ DD成功：oci  aws  az  rn  vultr  layerstack
 
 bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/robram9572/1KEYDD/master/InstallNET.sh') -d 11 -v 64 -p 123456 -port 22
 
+bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/robram9572/1KEYDD/master/InstallNET.sh') -U 20.04 -v 64 -p 123456 -port 22
+
 
 系统参数
 
